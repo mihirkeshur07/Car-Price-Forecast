@@ -1,0 +1,12 @@
+# Required libraries in python
+
+1- numpy as np
+2- pandas as pd
+3- seaborn as sns
+4- matplotlib as mpl
+5- matplotlib.pyplot as plt
+6- labeEncoder 
+7- scikit-learn
+8-sklearn.model_selection import train_test_split
+9-from sklearn.linear_model import LinearRegression
+10-from sklearn.metrics import r2_score, mean_absolute_error, mean_squared_error, explained_vari
